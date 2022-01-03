@@ -159,8 +159,8 @@ Internationalization and Natural Language Processing
 
 ## Numerical
 
-* NumPy equivalent
-* SciPy equivalent
+* Num (NumPy equivalent) (WIP: [Num](https://github.com/p6steve/raku-Num)
+* Sci (SciPy equivalent)
 
 ## Text processing
 
