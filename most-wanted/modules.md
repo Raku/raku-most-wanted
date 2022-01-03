@@ -159,7 +159,7 @@ Internationalization and Natural Language Processing
 
 ## Numerical
 
-* NumRa (NumPy equivalent) (WIP: [NumRa](https://github.com/p6steve/raku-NumRa)
+* NumRa (NumPy equivalent) (WIP: [NumRa](https://github.com/p6steve/raku-NumRa))
 * SciRa (SciPy equivalent)
 
 ## Text processing
