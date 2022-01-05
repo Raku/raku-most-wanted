@@ -161,6 +161,8 @@ Internationalization and Natural Language Processing
 
 * NumRa (NumPy equivalent) (WIP: [NumRa](https://github.com/p6steve/raku-NumRa))
 * SciRa (SciPy equivalent)
+* Pandas Binding
+* Polars Binding
 
 ## Text processing
 
