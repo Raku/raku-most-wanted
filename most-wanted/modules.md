@@ -157,12 +157,13 @@ Internationalization and Natural Language Processing
 * Automation
   + WWW::Mechanize
 
-## Numerical
+## Data Analytics / Numerical
 
-* NumRa (NumPy equivalent) (WIP: [NumRa](https://github.com/p6steve/raku-NumRa))
-* SciRa (SciPy equivalent)
+* Data Analytics (Pandas equivalent) (WIP: [Dan]((https://github.com/p6steve/raku-Dan))
 * Pandas Binding
 * Polars Binding
+* NumRa (NumPy equivalent)
+* SciRa (SciPy equivalent)
 
 ## Text processing
 
