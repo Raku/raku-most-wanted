@@ -160,10 +160,11 @@ Internationalization and Natural Language Processing
 ## Data Analytics / Numerical
 
 * Data Analytics (Pandas equivalent) (WIP: [Dan]((https://github.com/p6steve/raku-Dan))
-* Pandas Binding
-* Polars Binding
+* Pandas Binding (WIP: [Dan::Pandas]((https://github.com/p6steve/raku-Dan-Pandas))
+* Polars Binding (WIP: [Dan::Polars]((https://github.com/p6steve/raku-Dan-Polars))
 * NumRa (NumPy equivalent)
 * SciRa (SciPy equivalent)
+* CBOR2 Data Encode/Decode
 
 ## Text processing
 
