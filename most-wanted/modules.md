@@ -229,5 +229,5 @@ Internationalization and Natural Language Processing
 
 ## Utilities
 
-+ App::Ack 
++ App::Ack - see _App::Rak_
 * Email::Filter
