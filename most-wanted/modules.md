@@ -159,10 +159,11 @@ Internationalization and Natural Language Processing
 
 ## Numerical
 
-* NumRa (NumPy equivalent) (WIP: [NumRa](https://github.com/p6steve/raku-NumRa))
+* NumRa (NumPy equivalent)
 * SciRa (SciPy equivalent)
-* Pandas Binding
-* Polars Binding
+* Pandas Binding (WIP: [Dan::Pandas](https://github.com/librasteve/Dan/Pandas))
+* Polars Binding (WIP: [Dan::Polars](https://github.com/librasteve/Dan/Polars))
+* [Arrow](https://arrow.apache.org/docs/format/Columnar.html) Binding 
 
 ## Text processing
 
