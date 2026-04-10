@@ -162,7 +162,7 @@ Internationalization and Natural Language Processing
 * NumRa (NumPy equivalent)
 * SciRa (SciPy equivalent)
 * Polars Binding (WIP [Dan::Polars](https://github.com/p6steve/raku-Dan-Polars)
-* COBR2 (eg. similar to Python / C version) [CBOR2](https://pypi.org/project/cbor2/)
+* CBOR2 (eg. similar to Python / C version) [CBOR2](https://pypi.org/project/cbor2/)
 
 ## Text processing
 
